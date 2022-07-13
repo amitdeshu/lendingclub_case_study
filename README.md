@@ -1,2 +1,2 @@
-# lendingclub_case_study
+# Lending Club Case Study
 EDA for lending club business
